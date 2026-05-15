@@ -133,6 +133,122 @@ footer{
 <body>
 
 <header>
+    <section style="background:#ffffff; padding:40px 20px; box-shadow:0 5px 20px rgba(0,0,0,0.05);">
+    <div style="max-width:1200px; margin:auto;">
+        <h2 style="text-align:center; font-size:34px; color:#0d6efd; margin-bottom:15px;">
+            Trao Niềm Tin - Nhận Giá Trị
+        </h2>
+        <p style="text-align:center; font-size:18px; color:#555; max-width:850px; margin:auto; line-height:1.8;">
+            Nguyễn Đức chuyên cung cấp dịch vụ giúp việc nhà, chăm bé, chăm người già và chăm người bệnh
+            với đội ngũ cô giúp việc giàu kinh nghiệm, hồ sơ minh bạch và thái độ làm việc tận tâm.
+            Chúng tôi luôn đặt chữ <strong>TÂM</strong> lên hàng đầu để mang đến sự an tâm tuyệt đối cho mỗi gia đình.
+        </p>
+
+        <div style="
+            display:grid;
+            grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+            gap:20px;
+            margin-top:35px;
+        ">
+            <div style="
+                background:#f8fbff;
+                padding:25px;
+                border-radius:15px;
+                text-align:center;
+                box-shadow:0 5px 15px rgba(0,0,0,0.05);
+            ">
+                <h3 style="font-size:32px; color:#0d6efd;">500+</h3>
+                <p>Khách hàng tin tưởng</p>
+            </div>
+
+            <div style="
+                background:#f8fbff;
+                padding:25px;
+                border-radius:15px;
+                text-align:center;
+                box-shadow:0 5px 15px rgba(0,0,0,0.05);
+            ">
+                <h3 style="font-size:32px; color:#0d6efd;">1000+</h3>
+                <p>Ứng viên chất lượng</p>
+            </div>
+
+            <div style="
+                background:#f8fbff;
+                padding:25px;
+                border-radius:15px;
+                text-align:center;
+                box-shadow:0 5px 15px rgba(0,0,0,0.05);
+            ">
+                <h3 style="font-size:32px; color:#0d6efd;">24/7</h3>
+                <p>Hỗ trợ nhanh chóng</p>
+            </div>
+
+            <div style="
+                background:#f8fbff;
+                padding:25px;
+                border-radius:15px;
+                text-align:center;
+                box-shadow:0 5px 15px rgba(0,0,0,0.05);
+            ">
+                <h3 style="font-size:32px; color:#0d6efd;">Toàn Quốc</h3>
+                <p>Phục vụ mọi tỉnh thành</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- THÊM ĐOẠN NÀY NGAY TRƯỚC <footer> -->
+<section class="container">
+    <h2 class="section-title">Cam Kết Dịch Vụ</h2>
+    <div class="why">
+        <div class="box">✅ Tư vấn miễn phí và hỗ trợ tận tình.</div>
+        <div class="box">✅ Cung cấp người phù hợp đúng nhu cầu.</div>
+        <div class="box">✅ Hỗ trợ đổi người nhanh chóng nếu chưa phù hợp.</div>
+        <div class="box">✅ Hồ sơ minh bạch, thông tin rõ ràng.</div>
+        <div class="box">✅ Bảo mật tuyệt đối thông tin khách hàng.</div>
+        <div class="box">✅ Đồng hành hỗ trợ trong suốt quá trình làm việc.</div>
+    </div>
+</section>
+
+<section style="background:#fff; padding:60px 20px;">
+    <div style="max-width:1000px; margin:auto;">
+        <h2 class="section-title">Khách Hàng Nói Gì Về Chúng Tôi</h2>
+
+        <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:25px;">
+            <div class="card">
+                <p>"Tìm được cô chăm bé rất có tâm và sạch sẽ. Gia đình rất hài lòng."</p>
+                <strong>- Chị Lan, TP.HCM</strong>
+            </div>
+
+            <div class="card">
+                <p>"Hỗ trợ nhanh, tư vấn rõ ràng và đổi người rất chuyên nghiệp."</p>
+                <strong>- Anh Minh, Bình Dương</strong>
+            </div>
+
+            <div class="card">
+                <p>"Dịch vụ uy tín, hồ sơ đầy đủ, làm việc rất yên tâm."</p>
+                <strong>- Chị Hương, Đồng Nai</strong>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section style="
+    background:linear-gradient(135deg,#0d6efd,#003c8f);
+    color:white;
+    text-align:center;
+    padding:70px 20px;
+">
+    <h2 style="font-size:36px; margin-bottom:20px;">
+        Cần Người Giúp Việc Phù Hợp?
+    </h2>
+    <p style="font-size:20px; margin-bottom:30px;">
+        Liên hệ ngay để được tư vấn miễn phí và bố trí người nhanh chóng.
+    </p>
+    <a href="tel:0979333675" class="btn">
+        📞 Liên Hệ Ngay 0979.333.675
+    </a>
+</section>
     <h1>NGUYỄN ĐỨC</h1>
     <p>Dịch Vụ Cung Ứng Giúp Việc Uy Tín Toàn Quốc</p>
     <a href="tel:0979333675" class="btn">📞 Gọi Ngay: 0979.333.675</a>
