@@ -4,6 +4,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Dịch Vụ Giúp Việc Nguyễn Đức</title>
+    <title>Trao Niềm Tin - Nhận Giá Trị</title>
 <style>
 *{
     margin:0;
@@ -166,13 +167,14 @@ footer{
         <div class="box">✔ Đổi người nếu không phù hợp.</div>
         <div class="box">✔ Hỗ trợ nhanh chóng 24/7.</div>
         <div class="box">✔ Hàng trăm cô kinh nghiệm sẵn sàng nhận việc.</div>
+    <div class="box">✔ Làm việc nhanh chóng, có cô nhận việc trong ngày.</div>
     </div>
 </section>
 
 <section class="contact">
     <h2>Liên Hệ Tư Vấn Miễn Phí</h2>
-    <p>📞 Hotline: 0979 333 675</p>
-    <p>💬 Zalo: 0979 333 675</p>
+    <p>📞 Hotline: 0979.333.675</p>
+    <p>💬 Zalo: 0979.333.675</p>
     <p>🏠 Hỗ trợ tìm người phù hợp trên toàn quốc</p>
 </section>
 
