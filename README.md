@@ -1,147 +1,34 @@
 <!DOCTYPE html>Trao Niềm TIN - Nhận Giá Trị
 <html lang="vi">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Dịch Vụ Giúp Việc Nguyễn Đức</title>
-    <title>Trao Niềm Tin - Nhận Giá Trị</title>
-<style>
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-    font-family: Arial, sans-serif;
-}
-body{
-    background:#f5f7fb;
-    color:#333;
-}
-header{
-    background:linear-gradient(135deg,#0d6efd,#003c8f);
-    color:white;
-    text-align:center;
-    padding:60px 20px;
-}
-header h1{
-    font-size:42px;
-    margin-bottom:15px;
-}
-header p{
-    font-size:20px;
-    opacity:0.95;
-}
-.btn{
-    display:inline-block;
-    margin-top:25px;
-    padding:14px 30px;
-    background:#ffc107;
-    color:#000;
-    text-decoration:none;
-    border-radius:8px;
-    font-weight:bold;
-    font-size:18px;
-}
-.container{
-    max-width:1200px;
-    margin:auto;
-    padding:50px 20px;
-}
-.section-title{
-    text-align:center;
-    font-size:32px;
-    color:#0d6efd;
-    margin-bottom:40px;
-}
-.services{
-    display:grid;
-    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
-    gap:25px;
-}
-.card{
-    background:white;
-    padding:30px 20px;
-    border-radius:15px;
-    box-shadow:0 10px 25px rgba(0,0,0,0.08);
-    text-align:center;
-    transition:0.3s;
-}
-.card:hover{
-    transform:translateY(-8px);
-}
-.card h3{
-    color:#0d6efd;
-    margin-bottom:15px;
-}
-.why{
-    display:grid;
-    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
-    gap:25px;
-}
-.why .box{
-    background:#ffffff;
-    padding:25px;
-    border-left:5px solid #0d6efd;
-    border-radius:10px;
-    box-shadow:0 5px 15px rgba(0,0,0,0.05);
-}
-.contact{
-    background:#0d6efd;
-    color:white;
-    text-align:center;
-    padding:60px 20px;
-}
-.contact h2{
-    font-size:32px;
-    margin-bottom:20px;
-}
-.contact p{
-    font-size:20px;
-    margin-bottom:10px;
-}
-footer{
-    background:#002f6c;
-    color:white;
-    text-align:center;
-    padding:20px;
-    font-size:14px;
-}
-.float-buttons{
-    position:fixed;
-    right:20px;
-    bottom:20px;
-    display:flex;
-    flex-direction:column;
-    gap:12px;
-    z-index:999;
-}
-.float-buttons a{
-    width:55px;
-    height:55px;
-    border-radius:50%;
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    box-shadow:0 4px 12px rgba(0,0,0,0.2);
-}
-.float-buttons img{
-    width:100%;
-    height:100%;
-    border-radius:50%;
-}
-</style>
+  <title>Giúp việc Nguyễn Đức – Uy tín, tận tâm</title>
+  <meta name="description" content="Dịch vụ giúp việc gia đình uy tín tại Tp.HCM. Đội ngũ đào tạo chuyên nghiệp, hỗ trợ chăm sóc bé và người già. Gọi 0979.333.675 ngay!">
+  ...
 </head>
-<body>
-
 <header>
- <!-- THÊM ĐOẠN NÀY NGAY SAU </header> -->
-<section style="padding:0;">
-    <img 
-        src="https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=1600&q=80" 
-        alt="Dịch vụ giúp việc"
-        style="width:100%; height:450px; object-fit:cover;"
-    >
+  <h1>Trao Niềm Tin – Nhận Giá Trị</h1>
+  <p>Đội ngũ giúp việc kinh nghiệm, tận tâm – Nguyễn Đức cam kết phù hợp với từng gia đình.</p>
+  <a href="#contact" class="btn btn-primary">Gửi yêu cầu</a>
+</header>
+
+<section class="services container">
+  <h2 class="section-title">Dịch Vụ Của Chúng Tôi</h2>
+  <div class="service-card">
+    <h3>Chăm bé 👶</h3>
+    <p>Cung cấp cô giữ trẻ đáng tin cậy, chuyên tâm với bé từ sơ sinh đến mẫu giáo.</p>
+  </div>
+  ...
 </section>
 
+<section class="why-us">
+  <h2 class="section-title">Vì Sao Chọn Chúng Tôi?</h2>
+  <ul>
+    <li>Hồ sơ nhân viên minh bạch, xác thực.</li>
+    <li>Hỗ trợ đổi người nếu không hài lòng.</li>
+    <li>Hỗ trợ 24/7, phục vụ nhanh chóng.</li>
+    <li>Lập tức có người (có thể nhận việc ngay trong ngày).</li>
+  </ul>
+</section>
 <!-- THÊM ĐOẠN NÀY SAU PHẦN ẢNH -->
 <section style="background:#ffffff; padding:50px 20px;">
     <div style="max-width:1200px; margin:auto;">
